@@ -1,1 +1,1 @@
-# EEL5722_Lab1_Push_Button_Counter
+# EEL5722_Lab1_Push_Button_Counter_Xilinx_Basys3_FPGA
